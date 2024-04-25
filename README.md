@@ -6,8 +6,6 @@ In today's rapidly evolving computing landscape, ensuring the security of file s
 
 🔒 With file segmentation into encrypted chunks, digital signatures, and secure key exchange facilitated by a trusted center, our system minimizes the risk of unauthorized access or data breaches.
 
-💻 The user-friendly interface, developed using Java Swings, provides seamless access to features such as login, file-sharing, and real-time chatting, ensuring smooth collaboration and file management.
-
 📚 Developed as part of Advanced Computer Networks and Security coursework, our project underscores the importance of network security, focusing not only on confidentiality but also on integrity and authenticity.
 
 🔍 Through rigorous testing and evaluation, we aspire to contribute to the advancement of more secure and efficient file storage and sharing systems, with broad implications across various use cases.
